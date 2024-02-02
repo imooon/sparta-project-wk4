@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sparta-project-wk4/static/css/main.b8078a4f.css",
+    "main.js": "/sparta-project-wk4/static/js/main.3eac47ea.js",
+    "static/media/pexels-lisa-fotios-1107717.jpg": "/sparta-project-wk4/static/media/pexels-lisa-fotios-1107717.922887797a16ae28bf4a.jpg",
+    "index.html": "/sparta-project-wk4/index.html",
+    "main.b8078a4f.css.map": "/sparta-project-wk4/static/css/main.b8078a4f.css.map",
+    "main.3eac47ea.js.map": "/sparta-project-wk4/static/js/main.3eac47ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8078a4f.css",
+    "static/js/main.3eac47ea.js"
+  ]
+}
